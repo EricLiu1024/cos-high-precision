@@ -1,6 +1,4 @@
 # cos-high-precision
-High-precision cosine digit calculator using Taylor Series
-# cos-high-precision
 
 A high‑precision cosine digit extractor based on Python’s `decimal` module and the Taylor series expansion.  
 This project computes the **n‑th digit after the decimal point** of `cos(a)` with controllable precision.
